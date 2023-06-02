@@ -1,12 +1,12 @@
 # Tópicos do curso
 
-#HTML
+HTML
 - Required
 - Type
 - min e max lenght
 - Pattern e Regex
 
-#JS
+JS
 - Logica para verificar CPF
 - Logica para verificar maior idade
 - Validity State
